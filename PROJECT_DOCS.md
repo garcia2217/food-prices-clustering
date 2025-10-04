@@ -68,7 +68,7 @@ Three complementary algorithms will be implemented:
 ```
 notebooks/
 ├── 01_preprocessing.ipynb (COMPLETED)
-├── 02_feature_engineering.ipynb (IN PROGRESS)
+├── 02_feature_engineering.ipynb (COMPLETED)
 ├── 03_clustering_experiments.ipynb (IN PROGRESS)
 └── 04_pipeline_validation.ipynb (FUTURE)
 ```
