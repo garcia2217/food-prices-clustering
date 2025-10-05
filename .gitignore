@@ -16,3 +16,4 @@ data/*
 *.pkl
 *.pt
 *.npy
+results/
